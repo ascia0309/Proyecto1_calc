@@ -11,6 +11,8 @@ namespace Proyecto1_calc
 {
     class Analizador
     {
+		//falta mejorar con ese tipo ############################
+		//una mas kajsasjaisj
         ArrayList tokens;
         ArrayList tipos;
 
@@ -65,7 +67,7 @@ namespace Proyecto1_calc
             ErroresToken errtok = new ErroresToken(lexema, idToken, linea, columna);
             listaErrores.Add(errtok);
         }
-
+//aqui sirver ffuncionar
         public void Analizador_cadena(String entrada)
         {
             int estado = 0;
