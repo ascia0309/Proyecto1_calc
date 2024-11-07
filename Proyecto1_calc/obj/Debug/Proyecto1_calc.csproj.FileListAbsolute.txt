@@ -35,3 +35,13 @@ C:\Users\cesar\OneDrive\Escritorio\Proyecto1_ejemplo_lexico-20190108T154811Z-001
 C:\Users\cesar\OneDrive\Escritorio\Proyecto1_ejemplo_lexico-20190108T154811Z-001\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.CoreCompileInputs.cache
 C:\Users\cesar\OneDrive\Escritorio\Proyecto1_ejemplo_lexico-20190108T154811Z-001\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.exe
 C:\Users\cesar\OneDrive\Escritorio\Proyecto1_ejemplo_lexico-20190108T154811Z-001\Proyecto1_ejemplo_lexico\Proyecto1_calc\obj\Debug\Proyecto1_calc.pdb
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe.config
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\bin\Debug\Proyecto1_calc.pdb
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.AssemblyReference.cache
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.Form1.resources
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.Properties.Resources.resources
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.GenerateResource.cache
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.CoreCompileInputs.cache
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.exe
+G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.pdb
