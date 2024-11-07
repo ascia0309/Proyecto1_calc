@@ -45,3 +45,13 @@ G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.Ge
 G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.CoreCompileInputs.cache
 G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.exe
 G:\Visual Studio 2022\ejemplo1\Proyecto1_calc\obj\Debug\Proyecto1_calc.pdb
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe.config
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\bin\Debug\Proyecto1_calc.exe
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\bin\Debug\Proyecto1_calc.pdb
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.AssemblyReference.cache
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.Form1.resources
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.Properties.Resources.resources
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.GenerateResource.cache
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.csproj.CoreCompileInputs.cache
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.exe
+G:\Visual Studio 2022\Proyecto1_calc\Proyecto1_calc\obj\Debug\Proyecto1_calc.pdb
